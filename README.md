@@ -1,3 +1,3 @@
 # Text Generation using of Gemini LLM.
 
-It is just a simple App for like question answering
+It is just a simple App for like question answering using google-gemini model
